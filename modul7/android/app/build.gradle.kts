@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.modul7_isnaenifatmawati_2211102205"
+    namespace = "com.example.modul7"
     compileSdk = 35  // Gunakan versi angka langsung
     ndkVersion = "27.0.12077973"  // Pastikan NDK ini sudah terinstall
 
@@ -20,7 +20,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.modul7_isnaenifatmawati_2211102205"
+        applicationId = "com.example.modul7"
         minSdk = 21  // Sesuaikan dengan kebutuhan aplikasi
         targetSdk = 35  // Gunakan target terbaru
         versionCode = 1
